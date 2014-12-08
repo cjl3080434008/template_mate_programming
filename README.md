@@ -1,7 +1,7 @@
 template_mate_programming
 =========================
 
-Some useful code programed with template technology under C++11 stander.
+Some useful code programed with template technology under C++11 standard.
 
 Require: C++11 Support
 
