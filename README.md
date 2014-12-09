@@ -13,7 +13,7 @@ detect.h:
   
 tupleinitclass.h
   Some template class that help to contruct a class with a tuple.
-  Needed: <tuple>
+  Needed: "tuple"
   
 inheriance.h
   Connect differnet class into single class, and provide some helpful class and function for the polling of each type.
@@ -21,7 +21,7 @@ inheriance.h
 
 typepair.h
   Similer to std::pair, but it stores type informaton and init parameter.
-  Needed: <tuple>
+  Needed: "tuple"
   
 Chinese:
   
@@ -33,7 +33,7 @@ detect.h:
   
 tupleinitclass.h
   一个包装，通过该包装能使类能通过对应的tuple来进行初始化
-  Needed: <tuple>
+  Needed: "tuple"
   
 inheriance.h
   不平衡树的继承结构，将多个不同的类型集合到一个类中。
@@ -41,4 +41,4 @@ inheriance.h
 
 typepair.h
   利用模板和tuple制成的一个能同时储存多个类类型信息和初始化参数的神奇的东西，有点类似于std::pair。
-  Needed: <tuple>
+  Needed: "tuple"
